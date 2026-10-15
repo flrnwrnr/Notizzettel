@@ -110,4 +110,4 @@ Fehlerberichte sollten die Schritte zur Reproduktion und die verwendeten iOS-/Xc
 
 ## Lizenz
 
-Die Lizenz wird vor Veröffentlichung festgelegt. Bis dahin ist keine Open-Source-Lizenz erteilt.
+Der Quellcode steht unter der [MIT-Lizenz](LICENSE).
