@@ -1,0 +1,6 @@
+// Copy to Config/Local.xcconfig and replace all placeholders with your own values.
+// Keep NO for local-only builds. Set YES after completing your CloudKit setup.
+NOTIZEN_CLOUD_SYNC_ENABLED = NO
+NOTIZEN_DEVELOPMENT_TEAM = YOUR_TEAM_ID
+NOTIZEN_BUNDLE_IDENTIFIER = com.yourdomain.notizzettel
+NOTIZEN_ICLOUD_CONTAINER_IDENTIFIER = iCloud.com.yourdomain.notizzettel

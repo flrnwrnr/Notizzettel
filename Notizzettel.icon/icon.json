@@ -1,0 +1,43 @@
+{
+  "fill" : {
+    "automatic-gradient" : "srgb:1.00000,0.93769,0.83199,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "pencil.and.scribble.png",
+          "name" : "pencil.and.scribble",
+          "position" : {
+            "scale" : 0.5,
+            "translation-in-points" : [
+              162.453125,
+              139.9453125
+            ]
+          }
+        },
+        {
+          "fill" : {
+            "solid" : "srgb:1.00000,1.00000,1.00000,1.00000"
+          },
+          "image-name" : "text.page.fill.png",
+          "name" : "text.page.fill"
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

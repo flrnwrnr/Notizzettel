@@ -1,0 +1,9 @@
+// Public defaults are placeholders. Register your own identifiers for device builds.
+// Enable only after configuring your own signed CloudKit app and container.
+NOTIZEN_CLOUD_SYNC_ENABLED = NO
+NOTIZEN_DEVELOPMENT_TEAM =
+NOTIZEN_BUNDLE_IDENTIFIER = org.example.notizzettel
+NOTIZEN_ICLOUD_CONTAINER_IDENTIFIER = iCloud.org.example.notizzettel
+
+// Keep personal signing and service configuration out of version control.
+#include? "Local.xcconfig"

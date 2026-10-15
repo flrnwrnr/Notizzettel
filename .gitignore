@@ -1,0 +1,32 @@
+.DS_Store
+
+# Xcode output and user state
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcresult/
+*.xcarchive/
+*.dSYM/
+*.ipa
+*.app/
+*.log
+
+# Personal build/service configuration and signing material
+Config/Local.xcconfig
+.env
+.env.*
+!.env.example
+*.p12
+*.p8
+*.pem
+*.key
+*.cer
+*.mobileprovision
+*.provisionprofile
+ExportOptions*.plist
+
+# Local assistant/runtime settings
+.codex/
+.agents/
+.aws/
