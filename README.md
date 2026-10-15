@@ -91,4 +91,4 @@ Beiträge sollten bestehende Datenformate und Erinnerungsverknüpfungen erhalten
 
 ## Veröffentlichung vorbereiten
 
-Die Lizenzentscheidung ist noch offen; eine Open-Source-Lizenz ist noch nicht erteilt. Vor Veröffentlichung muss das SF-Symbol-basierte App-Icon durch eine eigenständige Grafik ersetzt werden: [Apples Richtlinien zu SF Symbols](https://developer.apple.com/design/human-interface-guidelines/sf-symbols) untersagen deren Verwendung in App-Icons. Die Gestaltung des Ersatzes steht noch aus. Die Handschrift-Fixtures wurden am 15. Oktober 2026 visuell geprüft und enthalten harmlose Testinhalte.
+Die Lizenzentscheidung ist noch offen; eine Open-Source-Lizenz ist noch nicht erteilt. Die bestehenden Grafiken bleiben erhalten. Vor einer Veröffentlichung sind die Herkunft und Freigabe der enthaltenen Grafiken sowie die Lizenzentscheidung mit dem Nutzer zu klären. Änderungen an Grafiken, Design oder App-Verhalten aus Rechte- oder Lizenzbedenken bedürfen seiner vorherigen ausdrücklichen Entscheidung. Die Handschrift-Fixtures wurden am 15. Oktober 2026 visuell geprüft und enthalten harmlose Testinhalte.

@@ -659,10 +659,9 @@ private struct FolderArtwork: View {
     let archived: Bool
 
     var body: some View {
-        Image(systemName: "folder.fill")
+        Image("CustomerFolder")
             .resizable()
             .scaledToFit()
-            .foregroundStyle(.blue)
             .saturation(archived ? 0 : 1)
             .accessibilityHidden(true)
     }
